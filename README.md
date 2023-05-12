@@ -1,2 +1,1 @@
-# team24
-Uwon
+# Uwon
